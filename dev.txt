@@ -2,3 +2,4 @@ master
 master1
 master2
 Creating a new branch is quick AND simple.
+feature1
